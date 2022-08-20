@@ -11,7 +11,7 @@ This repository is the first in a series of exercises aimed at creating the tool
 
 1. This project explores how to execute (non-natively supported) PHP scripts in the AWS Lambda service
 2. [PHP HelloWorld AWS Lambda Container](https://github.com/DanielCraigie/hello-world-php-aws-lambda-container) - leverages new functionality in the Lambda service to define Functions from Docker Images
-3. [Hello World PHP AWS SAM Example]() - contains an example implementation of PHP Lambda Functions structured behind the [AWS API Gateway](https://aws.amazon.com/api-gateway/) service
+3. [Hello World PHP AWS SAM Example](https://github.com/DanielCraigie/hello-world-php-aws-sam-example) - contains an example implementation of PHP Lambda Functions structured behind the [AWS API Gateway](https://aws.amazon.com/api-gateway/) service
 
 ## Background
 The term "Serverless" refers to a compute model that allows Developers to focus on writing code rather than building/running/scaling the infrastructure it's running on.
