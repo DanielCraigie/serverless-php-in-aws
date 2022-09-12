@@ -19,13 +19,10 @@ Websters defines 'Serverless' as "Having no concern for self : unselfish"
 The term "Serverless" actually refers to a Cloud compute model that allows Developers to focus on writing code without having to manage the infrastructure it's running on.
 The AWS Lambda service lets users define Functions (self-contained units of code) in a Highly Available, managed environment that automatically scales to meet demand.
 
-Although Lambda supports a number of languages by default, PHP is not one of them.
+Although Lambda supports a [number of languages](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html) by default, PHP is not one of them.
 However, we are allowed to define custom runtimes so (with a little extra work) it's possible to execute PHP scripts.
 
-This repository is made up of an ordered set of folders:
-0. Running PHP Hello World in Lambda
-1. Configuring & Extending PHP in Lambda
-2. Deploy PHP Lambda Functions with AWS CloudFormation
+This repository contains a folder containing information on Running a PHP Hello World script in Lambda.
 
 ## Resources
 
